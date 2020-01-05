@@ -47,7 +47,7 @@ class TodoInput extends Component {
          <div className="ant-col-24">
 
            <Button type="primary" onClick={this.showModal}>
-                 Add List
+                 Create User
                </Button>
 
                <Modal
